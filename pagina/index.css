@@ -1,13 +1,46 @@
 body{
     background-color: rgb(210, 206, 201);
     color: antiquewhite;
+    
 
 }
 .header{
     border: 1px solid rgb(249, 249, 244);
     color: black;
-    height: 10vh;
+    height: 20vh;
 }
+.imagen{
+    height: 10vh;
+    width: 10vh;
+    border-radius:50%;
+}
+
+main{
+    border: 1px solid black;
+    height: 60vh;
+    width: 80vw;
+    margin: auto;
+    border: 1px solid;
+    
+    
+    
+
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    
+    width: 80vw;
+}
+.centro{
+    border: 1px solid black;
+    margin: 10px;
+    
+
+
+}
+
 
 
 .background{
@@ -32,9 +65,10 @@ body{
 .border{
     
     margin: 10px;
+    
 }
 .form{
-    width: 60vw;
+    width: 40vw;
     margin: auto;
     border: 1px solid;
     margin-top: 10px;
@@ -47,9 +81,26 @@ body{
 }
 
 
+
 footer{
     background-color: black;
     display: flex;
     height: 20vh;
-    border: 1px solid black;
+    border: 1px solid rgb(240, 237, 237);
+    
+
 }
+
+.pie{
+    border: 1px solid white;
+    
+    margin: 40px;
+    background-color: rgb(110, 103, 93);
+}
+
+.pieder{
+    
+    
+    
+}
+
